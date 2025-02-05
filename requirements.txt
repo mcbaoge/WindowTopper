@@ -1,0 +1,3 @@
+pywinctl
+pywin32
+psutil
