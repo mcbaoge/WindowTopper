@@ -1,0 +1,3 @@
+pywin32>=308
+PyQt5>=5.15
+pyinstaller>=6.0
